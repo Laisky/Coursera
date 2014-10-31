@@ -3,8 +3,6 @@ ml-007
 
 [Machine Learning by Andrew Ng](https://class.coursera.org/ml-007)
 
--
-
 # 笔记
 
 1. [Ⅰ. Introduce](https://app.yinxiang.com/shard/s17/sh/f11d8377-0644-4e96-9122-a2b8900c62b9/a631a44f333f2aca01c1b38a1aa340ea)
