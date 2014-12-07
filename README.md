@@ -14,4 +14,6 @@ ml-007
 7. [VII. Regularization](https://app.yinxiang.com/shard/s17/sh/86f1b680-b89f-4f2b-a5ca-2fe522b583b0/285e36b16577c95f04f4b141a9e4c225)
 8. [Ⅷ. Neural Networks: Representation](https://app.yinxiang.com/shard/s17/sh/4d078a47-c307-49c0-bae9-c236a6ce9df7/cfc1a8f4b61de586dd604caef8a2847f)
 0. [IX. Neural Networks: Learning](https://app.yinxiang.com/shard/s17/sh/236cf5a7-9a45-4a57-bfae-7620accc49f5/26e663d8c316a4a96cd22c0ba94d6484)
-0. [MachineLearning: X. Advice for Applying Machine Learning](https://app.yinxiang.com/l/ABEGuCX5Sb9KyZvHYhG1AFV2gbc79CnzXa8)
+0. [X. Advice for Applying Machine Learning](https://app.yinxiang.com/l/ABEGuCX5Sb9KyZvHYhG1AFV2gbc79CnzXa8)
+0. [XI. Machine Learning System Design](https://app.yinxiang.com/l/ABHXIRWA2qFD7Lzdhfl_168acTS4ygP-0qc)
+0. [XII. Support Vector Machines](https://app.yinxiang.com/l/ABEVqYP4oExElIPTOlD8LLtg-4nlL3bfg1E)
