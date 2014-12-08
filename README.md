@@ -3,7 +3,11 @@ ml-007
 
 [Machine Learning by Andrew Ng](https://class.coursera.org/ml-007)
 
-# 笔记
+## 官方笔记
+
+- [Stanford Machine Learning](http://www.holehouse.org/mlclass/index.html)
+
+## 我的笔记
 
 1. [Ⅰ. Introduce](https://app.yinxiang.com/shard/s17/sh/f11d8377-0644-4e96-9122-a2b8900c62b9/a631a44f333f2aca01c1b38a1aa340ea)
 2. [Ⅱ. Linear Regression with One Variable](https://app.yinxiang.com/shard/s17/sh/8eae1bf8-accd-44f7-8ec0-6212ee79848e/edbd53956c93d4b4fd925c91c229f789)
@@ -17,3 +21,4 @@ ml-007
 0. [X. Advice for Applying Machine Learning](https://app.yinxiang.com/l/ABEGuCX5Sb9KyZvHYhG1AFV2gbc79CnzXa8)
 0. [XI. Machine Learning System Design](https://app.yinxiang.com/l/ABHXIRWA2qFD7Lzdhfl_168acTS4ygP-0qc)
 0. [XII. Support Vector Machines](https://app.yinxiang.com/l/ABEVqYP4oExElIPTOlD8LLtg-4nlL3bfg1E)
+0. [XIII. Clustering](https://app.yinxiang.com/l/ABHsSI7AzYlO6K8irYvca6sviwt72URbYWk)
