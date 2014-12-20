@@ -24,3 +24,8 @@ An Introduction to Interactive Programming in Python
 0. [7a. More classes](https://app.yinxiang.com/l/ABER4riyCt5OLq4C36u1zCfyu29hfbzEDGA)
 0. [7b. Sprites](https://app.yinxiang.com/l/ABGdvLwLnxdNY7YjZAE8z9udhhmqklNcgIM)
 0. [8a. Groups of sprites & 8b. Animation](https://app.yinxiang.com/l/ABFSGKoTyqxDcYocSqPgkU4v2sqzQViB-NQ)
+
+
+## Certificate
+
+![interactivepython-005](/certificate.png)

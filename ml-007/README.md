@@ -1,4 +1,4 @@
-ml-007
+Machine Learning
 ====
 
 [Machine Learning by Andrew Ng](https://class.coursera.org/ml-007)
@@ -23,3 +23,7 @@ ml-007
 0. [XII. Support Vector Machines](https://app.yinxiang.com/l/ABEVqYP4oExElIPTOlD8LLtg-4nlL3bfg1E)
 0. [XIII. Clustering](https://app.yinxiang.com/l/ABHsSI7AzYlO6K8irYvca6sviwt72URbYWk)
 0. [XIV. Dimensionality Reduction](https://app.yinxiang.com/l/ABG3tvhXAa5BCKQIszTbUYb14cj7Am5rwGA)
+
+## Certificate
+
+![ml-007](/certificate.png)
