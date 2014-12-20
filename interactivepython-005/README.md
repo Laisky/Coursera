@@ -28,4 +28,4 @@ An Introduction to Interactive Programming in Python
 
 ## Certificate
 
-![interactivepython-005](/certificate.png)
+![interactivepython-005](/certificates/interactivepython-005.png)

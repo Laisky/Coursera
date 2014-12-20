@@ -26,4 +26,4 @@ Machine Learning
 
 ## Certificate
 
-![ml-007](/certificate.png)
+![ml-007](/certificates/ml-007.png)
