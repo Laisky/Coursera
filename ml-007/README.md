@@ -23,6 +23,7 @@ Machine Learning
 0. [XII. Support Vector Machines](https://app.yinxiang.com/l/ABEVqYP4oExElIPTOlD8LLtg-4nlL3bfg1E)
 0. [XIII. Clustering](https://app.yinxiang.com/l/ABHsSI7AzYlO6K8irYvca6sviwt72URbYWk)
 0. [XIV. Dimensionality Reduction](https://app.yinxiang.com/l/ABG3tvhXAa5BCKQIszTbUYb14cj7Am5rwGA)
+0. [XV. Anomaly Detection](https://app.yinxiang.com/l/ABEIl-8mCipC26D14VSzja0cIO25kA4BaWo)
 
 ## Certificate
 
